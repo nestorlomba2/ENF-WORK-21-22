@@ -6,10 +6,15 @@ This repository aims to gather all the scripts related to the research project o
 ## Folder structure
 
 **data** - original ENF signal data files, tables of distances and scripts to convert the original ENF files to .mat.
+
 **media** - images and pdf maps of the networks.
+
 **OLD_pipeline** - older version of this repository, just in case.
+
 **results_TFG** - output figures generated for the final year dissertation (TFG in spanish)
+
 **scripts** - signal processing and plotting of figures
+
 **toolbox** - compilation of useful algorithms. THIS WORK IS NOT MINE, BUT WAS EITHER MADE BY SAMUEL FERNÁNDEZ MENDUIÑA ([Samuel – About me (sf219.github.io)](https://sf219.github.io/)). DO NOT USE OR SHARE WITHOUT HIS APPROVAL.
 
 ---
