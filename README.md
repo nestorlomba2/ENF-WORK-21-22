@@ -2,6 +2,8 @@
 
 This repository aims to gather all the scripts related to the research project on the analysis of the geographical features of the ENF signal, that materalized in a Final Year Dissertation for the University of Vigo found also here.
 
+The project is too big for github, so it can be downloaded here: https://mega.nz/folder/R18hAJTT#iRYcUBAMT_qOTfXu1ZHarQ
+
 ---
 ## Folder structure
 
